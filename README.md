@@ -6,7 +6,7 @@ Arduino project to control home using bluetooth module, Relay module and android
 
 [Source code](https://github.com/bkrtoni/Home-control-via-Bluetooth-and-Android-device/blob/master/source.ino) with comments.
 
-**Board design**
+**Board design (Example)**
 
 ![Board design](https://i.imgur.com/yBin5Hx.jpg)
 
