@@ -16,3 +16,4 @@ Arduino project to control home using bluetooth module, Relay module and android
 
 Download android application [here](https://drive.google.com/file/d/1Vts5syi8KNZM8gjPL_5IQuDFR6RZwvS_/view?usp=sharing)
 
+**For more info about Arduino visit thier Github profile [here](https://github.com/arduino/Arduino)**
