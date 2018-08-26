@@ -1,7 +1,8 @@
 # Home control via Bluetooth and Android device
 
 Arduino project to control home using bluetooth module, Relay module and android device with voice command. 
-[Project video preview on Youtube](https://youtu.be/nRzDjwa9lDk)
+
+[See project video preview on Youtube](https://youtu.be/nRzDjwa9lDk)
 
 [Source code](https://github.com/bkrtoni/Home-control-via-Bluetooth-and-Android-device/blob/master/source.ino) with comments.
 
